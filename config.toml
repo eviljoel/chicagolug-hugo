@@ -1,7 +1,8 @@
 baseurl = "https://chicagolug.org/"
 title = "The Chicago GNU/Linux User Group"
 subtitle = "ChicagoLUG"
-theme = "hugo-universal-theme"
+#theme = "hugo-universal-theme"
+theme = "bulma"
 languageCode = "en-us"
 buildFuture = "True"
 # Enable comments by entering your Disqus shortname
